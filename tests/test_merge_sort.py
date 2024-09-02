@@ -13,5 +13,5 @@ def test_merge_sort_multiple_elements():
     assert merge_sort([3, 1, 4, 1, 5, 99, 2, 66, 5, 3, 15]) == [1, 1, 2, 3, 3, 4, 5, 5, 15, 66, 99]
     
 def test_merge_sort_negative():
-    """Test merge_sort with an empty list."""
+    """Test merge_sort with a negative-element list."""
     assert merge_sort([3, 1, 4, 1, -5, 99, 2, 66, 5, 3, 15]) == [-5, 1, 1, 2, 3, 3, 4, 5, 15, 66, 99]   
