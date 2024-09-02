@@ -4,3 +4,4 @@
 <img src="https://github.com/SE-Group-AR/HW1/actions/workflows/python-app.yml/badge.svg"/>
 <img src="https://github.com/SE-Group-AR/HW1/actions/workflows/code_cov.yml/badge.svg?branch=main"/>
 <img src="https://img.shields.io/badge/linting-pylint-yellowgreen"/>
+<img src="https://img.shields.io/pypi/v/autopep8"/>
